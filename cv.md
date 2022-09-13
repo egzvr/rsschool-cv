@@ -21,7 +21,21 @@
     <p>I have the ability to communicate and interact well with others around me.</p>
     <p>I want to get knowledge and skills that will be enough for employment in a company.</p>
 <h3 id="skills">Skills and Proficiency:</h3>
-<h3 id="сode">Code Example:</h3> 
+    <ul>
+        <li>Figma </li>
+        <li>Git, GitHub</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Tailwind</li>
+    </ul>
+<h3 id="сode">Code Example:</h3>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+</code></pre></div></div>
 <h3 id="experience">Experience:</h3>
 <h3 id="сources">Cources:</h3>
 <h3 id="Languages">Languages:</h3>
