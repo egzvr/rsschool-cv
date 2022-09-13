@@ -1,6 +1,25 @@
 <div class="container-lg px-3 my-5 markdown-body">
+    <h1 id="irina-bosenok">Irina Bosenok</h1>
+    <h3 id="junior-frontend-developer"> 
+        Junior Frontend Developer
+    </h3> 
 <h3 id="contact-information">Contact information:</h3>
+    <p> 
+        <strong>Phone:</strong>
+        +7-921-647-66-26 (messengers only)
+        <br>
+        <strong>Email:</strong>
+        <a href="ibosenok@mail.ru">ibosenok@mail.ru</a>
+        <br>
+        <strong>Telegram:</strong>
+        <a href="@irina_egzvr">@irina_egzvr</a>
+        <br>
+        <strong>Discord:</strong>
+        <a href="Irina (@egzvr)">Irina (@egzvr)</a> 
+    </p>
 <h3 id="about-myself">Аbout myself:</h3>
+    <p>I have the ability to communicate and interact well with others around me.</p>
+    <p>I want to get knowledge and skills that will be enough for employment in a company.</p>
 <h3 id="skills">Skills and Proficiency:</h3>
 <h3 id="сode">Code Example:</h3> 
 <h3 id="experience">Experience:</h3>
