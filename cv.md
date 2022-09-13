@@ -37,5 +37,24 @@ let result = sum(1, 2);
 alert( result );
 </code></pre></div></div>
 <h3 id="experience">Experience:</h3>
+    <table>
+        <tr>
+            <th>Project</th>
+            <th>GitHub Link</th>
+            <th>Technologies</th>
+        </tr> 
+        <tr>
+            <td>Kino</td>
+            <td>
+                <a href="https://github.com/egzvr/kino">Kino</a></td>
+            <td>HTML, CSS, Javascript</td>  
+        </tr> 
+        <tr>
+            <td>Delivery Food</td>
+            <td>
+                <a href="https://github.com/egzvr/Delivery-Food">Delivery Food</a></td>
+            <td>HTML, CSS, Javascript</td>  
+        </tr>
+</table>
 <h3 id="сources">Cources:</h3>
 <h3 id="Languages">Languages:</h3>
